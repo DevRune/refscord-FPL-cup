@@ -14,7 +14,7 @@ const ADMIN_USER = 'admin';
  * Zet de gegenereerde hash hieronder.
  */
 
-const ADMIN_PASSWORD_HASH = 'VERVANG_DIT_DOOR_JE_HASH';
+const ADMIN_PASSWORD_HASH = '$2y$10$w4n0hXj7rVqYQ6s9L3uB4e8jK2mP5tR1cF6aN9xZ0qW3sD7hG8kLm';
 
 
 function db(): PDO
